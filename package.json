@@ -1,0 +1,13 @@
+{
+  "name": "vitepress-docs",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vitepress dev docs",
+    "build": "vitepress build docs",
+    "preview": "vitepress preview docs",
+    "deploy": "bash deploy.sh"
+  },
+  "devDependencies": {
+    "vitepress": "^1.0.0"
+  }
+}

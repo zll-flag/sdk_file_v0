@@ -1,0 +1,22 @@
+:root {
+  --vp-c-brand: #42b983;
+  --vp-c-brand-light: #53bf92;
+  --vp-c-brand-dark: #339e6e;
+}
+
+.VPNavBar {
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+.VPDoc {
+  border-radius: 12px;
+  padding: 20px;
+}
+
+.VPSidebar {
+  padding-top: 20px;
+}
+
+.item {
+  border-radius: 6px;
+}
